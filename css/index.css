@@ -12,7 +12,7 @@ header{
     /*background: #f1f2f3;*/
     width: 80%;
     border-radius: 12px;
-    background-image:linear-gradient(rgba(95, 93, 93, 0.477),rgba(18, 17, 17, 0.5)),url("/html/images/backgroundImage.png");
+    background-image:linear-gradient(rgba(95, 93, 93, 0.477),rgba(18, 17, 17, 0.5)),url("/images/backgroundImage.png");
     background-size: cover;
     background-position: center;
     
@@ -263,4 +263,18 @@ footer h3{
     font-weight: bold;
     font-size: 1rem;
     
+}
+
+.card h2{
+    color: #114c8b;
+    text-align: center;
+    background: linear-gradient(#daf3fb,#dcedef);
+    border-radius: 12px;
+}
+
+
+.hostels h3{
+    font-size: 2rem;
+    color: #2f3030;
+    margin-top: 40px;
 }
